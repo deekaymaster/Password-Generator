@@ -1,0 +1,6 @@
+.container {
+  display: inline-block;
+  border: 1px solid gray;
+  padding: 32px 24px;
+  border-radius: 8px;
+}
